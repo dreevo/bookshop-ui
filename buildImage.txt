@@ -1,0 +1,1 @@
+pack build bookshop-ui --buildpack gcr.io/paketo-buildpacks/nginx --builder paketobuildpacks/builder:base -p dist
